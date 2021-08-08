@@ -1,6 +1,6 @@
 [![Ömer's GitHub Banner](./assets/banner.png)](https://omerberkancalik.com)
 
-[![Visits Badge](https://badges.pufler.dev/visits/omercalik/omercalik)](https:omerberkancalik.com)
+[![Visits Badge](https://badges.pufler.dev/visits/omercalik/omercalik)](https://omerberkancalik.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/omercalik/)
 
 Hey there 👋
