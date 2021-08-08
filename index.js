@@ -11,7 +11,7 @@ const starwars_quote = await (
     await fetch("http://swquotesapi.digitaljedi.dk/api/SWQuote/RandomStarWarsQuote")).json()
 
 const readme = readmeTemplate
-        .replace("{office_quote}", starwars_quote.data.content)
+        .replace("{starwars_quote}", starwars_quote.data.content)
        
 
 await fs.writeFile("README.md", readme);
