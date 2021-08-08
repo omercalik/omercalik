@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      -name: Let the magic happen
+      - name: Let the magic happen
       uses: actions/setup-node@v1
       with:
         node-version:14.6.0
