@@ -57,7 +57,7 @@ Want to know more about me? [Check out my website.](https://omerberkancalik.com/
  <br>
  ## 📣 How about an Office quote before you go?
 
-> {starwars_quote}
+<p>{starwars_quote}</p>
 
 Check back at the top of the hour for a new quote!
 
