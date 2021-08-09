@@ -13,16 +13,20 @@ Want to know more about me? [Check out my website.](https://omerberkancalik.com/
 
 ## 📌 Pinned Repositories
 
+<a href="https://github.com/omercalik/weather">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omercalik&repo=weather&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 <a href="https://github.com/omercalik/pokedex">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omercalik&repo=pokedex&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<br>
+<br>
+
 <a href="https://github.com/omercalik/portfolio">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omercalik&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
-<br>
-<br>
 
 <a href="https://github.com/omercalik/country-quiz">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omercalik&repo=country-quiz&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
