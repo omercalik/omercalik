@@ -14,7 +14,7 @@ Want to know more about me? [Check out my website.](https://omerberkancalik.com/
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/omercalik/weather">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omercalik&repo=weather&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=171219" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omercalik&repo=weather&title_color=F0803C&text_color=c9cacc&icon_color=4AB197&bg_color=171219" />
 </a>
 
 <a href="https://github.com/omercalik/cat-wiki-client">
@@ -25,11 +25,11 @@ Want to know more about me? [Check out my website.](https://omerberkancalik.com/
 <br>
 
 <a href="https://github.com/omercalik/portfolio">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omercalik&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=171219" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omercalik&repo=portfolio&title_color=F0803C&text_color=c9cacc&icon_color=4AB197&bg_color=171219" />
 </a>
 
 <a href="https://github.com/omercalik/country-quiz">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omercalik&repo=country-quiz&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=171219" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omercalik&repo=country-quiz&title_color=F0803C&text_color=c9cacc&icon_color=4AB197&bg_color=171219" />
 </a>
 
 <br>
@@ -38,11 +38,11 @@ Want to know more about me? [Check out my website.](https://omerberkancalik.com/
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/omercalik">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omercalik&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omercalik&hide=html,css&title_color=F0803C&text_color=c9cacc&icon_color=4AB197&bg_color=171219" />
 </a>
 
 <a href="https://github.com/omercalik">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=omercalik&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Ömer's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=omercalik&show_icons=true&line_height=27&count_private=true&title_color=F0803C&text_color=c9cacc&icon_color=F0803C&bg_color=171219" alt="Ömer's GitHub Stats" />
 </a>
 
 <br>
