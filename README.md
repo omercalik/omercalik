@@ -18,7 +18,7 @@ Want to know more about me? [Check out my website.](https://omerberkancalik.com/
 </a>
 
 <a href="https://github.com/omercalik/cat-wiki-client">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omercalik&repo=cat-wiki-client&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=171219" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omercalik&repo=cat-wiki-client&title_color=F0803C&text_color=c9cacc&icon_color=4AB197&bg_color=171219" />
 </a>
 
 <br>
