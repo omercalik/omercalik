@@ -3,11 +3,20 @@
 [![Visits Badge](https://badges.pufler.dev/visits/omercalik/omercalik)](https://omerberkancalik.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/omercalik/)
 
-Hey there 👋
+<h1 align="center">Hi 👋, I'm Ömer</h1>
+<h3 align="center">Full Stack Web Developer</h3>
 
-I’m Ömer, a full-stack developer, who specializes in modern web technologies like React,Next.js,Vue. I can translate designs into fully functional web applications.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omercalik&label=Profile%20views&color=0e75b6&style=flat" alt="omercalik" /> </p>
 
-Want to know more about me? [Check out my website.](https://omerberkancalik.com/)
+- 🔭 I’m currently working on [Stateskop](www.stateskop.com)
+
+- 🌱 I’m currently learning **Go,TDD**
+
+- 👨‍💻 All of my projects are available at [www.omerberkancalik.com](www.omerberkancalik.com)
+
+- 💬 Ask me about **React,NestJS,Next.js**
+
+- 📫 How to reach me **omerbcalik@gmail.com**
 
 # Blog posts
 
