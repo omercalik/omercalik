@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on [Stateskop](www.stateskop.com)
+- 🔭 I’m currently working on [Stateskop](https://www.stateskop.com)
 
 - 🌱 I’m currently learning **Go,TDD**
 
