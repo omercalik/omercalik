@@ -6,8 +6,6 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omercalik&label=Profile%20views&color=0e75b6&style=flat" alt="omercalik" /> </p>
-
 - 🔭 I’m currently working on [Stateskop](www.stateskop.com)
 
 - 🌱 I’m currently learning **Go,TDD**
