@@ -19,6 +19,7 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Connecting Heroku Postgres with NestJS Backend](https://dev.to/omercalik/connecting-heroku-postgres-with-nestjs-backend-3p1j)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📌 Pinned Repositories
