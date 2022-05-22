@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Go,TDD**
 
-- 👨‍💻 All of my projects are available at [www.omerberkancalik.com](www.omerberkancalik.com)
+- 👨‍💻 All of my projects are available at [omerberkancalik.com](https://www.omerberkancalik.com)
 
 - 💬 Ask me about **React,NestJS,Next.js**
 
