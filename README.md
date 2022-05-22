@@ -9,8 +9,6 @@ I’m Ömer, a full-stack developer, who specializes in modern web technologies 
 
 Want to know more about me? [Check out my website.](https://omerberkancalik.com/)
 
-<br>
-
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
