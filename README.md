@@ -11,6 +11,11 @@ Want to know more about me? [Check out my website.](https://omerberkancalik.com/
 
 <br>
 
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/omercalik/weather">
@@ -24,10 +29,7 @@ Want to know more about me? [Check out my website.](https://omerberkancalik.com/
 <br>
 <br>
 
-# Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <a href="https://github.com/omercalik/portfolio">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omercalik&repo=portfolio&title_color=F0803C&text_color=c9cacc&icon_color=4AB197&bg_color=171219" />
