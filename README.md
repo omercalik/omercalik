@@ -14,8 +14,6 @@
 
 - 💬 Ask me about **React,NestJS,Next.js**
 
-- 📫 How to reach me **omerbcalik@gmail.com**
-
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
